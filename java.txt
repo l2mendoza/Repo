@@ -1,0 +1,8 @@
+Que es java?
+
+Se trata de un lenguaje de programación que permite escribir comandos, instrucciones informáticas y
+líneas de códigos de manera que pueda entenderse y leerse fácilmente por los seres humanos.
+
+que se puede hacer con java?
+
+desarrollo web,desarrollo de videojuegos, IA , software contable, servidores web, etc.
