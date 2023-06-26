@@ -1,1 +1,9 @@
 Naranjo Gamal
+
+que es git?
+Git es lo que se conoce como un sistema de control de versiones.
+
+
+para que sirve y como crees que va a ayudarte usarlo en programacion ?
+
+Nos sirve como repositorio remoto, para que podamos subir,modificar y descargar nuestro proyecto rapidamente.
